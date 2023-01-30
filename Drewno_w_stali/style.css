@@ -18,6 +18,8 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  
+
 }
 .color {
   color: #ff8c00;
@@ -187,7 +189,7 @@ p {
 
 /* Hero Section */
 #hero {
-  background-image: url(/image/wood_desk.jpg);
+  background-image: url(/Drewno_w_stali/image/wood_desk.jpg);
   background-size: cover;
   background-position: top center;
   position: relative;
@@ -286,7 +288,7 @@ p {
   flex-direction: column;
   padding: 200px;
   border-radius: 10px;
-  background-image: url(/image/table.jpeg);
+  background-image: url(/Drewno_w_stali/image/table.jpeg);
   background-position: bottom center;
   background-size: cover;
   margin: 10px 5%;
@@ -300,18 +302,18 @@ p {
   margin-top: 50px;
 }
 #services .service-item:nth-child(2) {
-  background-image: url(/image/caffe-table.jpeg);
+  background-image: url(/Drewno_w_stali/image/caffe-table.jpeg);
   background-position: center;
   background-size: cover;
   line-height: 5rem;
 }
 #services .service-item:nth-child(3) {
-  background-image: url(/image/item2.jpeg);
+  background-image: url(/Drewno_w_stali/image/item2.jpeg);
   background-position: center;
   background-size: cover;
 }
 #services .service-item:nth-child(4) {
-  background-image: url(/image/item7.jpeg);
+  background-image: url(/Drewno_w_stali/image/item7.jpeg);
   background-position: center;
   background-size: cover;
 }
